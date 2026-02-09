@@ -1,0 +1,37 @@
+import streamlit as st
+#====profil===#
+st.header("Profil")
+st.subheader("Géomaticien motivé avec des compétences en base de données,cartographie,topographie et développement d'application avec streamlit")
+#====formation ===#                                  
+st.header("📚Formations")
+st.write("BTS géomatique/CEDT LE G15")
+st.write("licence anglais/UNIVERSITÉ CHEIKH ANTA DIOP DAKAR(UCAD)")
+st.write("baccalauréat/LYCÉE MALICOUDA2")
+#====Competences===#
+st.header("🛠️Compétences")
+st.header("👷🏿Géomatique")
+st.write("- anglais technique")
+st.write("- collecte de données avec mobile topographer")
+st.header("Outils SIG")
+st.write("- manipulation de données raster et vectorielles sur ArcGIS et QGIS")
+st.write("- géoréférencement")
+st.write("- cartographie thématique et de situation")
+st.write("- Analyse spatiale")
+st.write("- creation de Bases de données")
+st.write("- Modélisation des données")
+st.write("- Requêtes et manipulation de données ")
+st.header("Dessin plan")
+st.write("- modelisation bâtiment 2D sur AutoCAD")
+st.write("- modelisation bâtiment 3D sur SketcHup")
+st.header("Informatique et Programmation")
+st.write("- Microsoft office(word,excel,PowerPoint)")
+st.write("- Développement d'applications simple avec streamlit et python")
+
+with st.sidebar:
+    st.image("image png.jpeg",width=100)
+    st.write("PRENOM:ALPHONSE COR")
+    st.write("NOM:SÈNE")
+    st.write("📧Email:alphonsecorsene8@gmail.com")
+    st.write("📞Téléphone:779509002")
+    st.write("📌Adresse:petit mbao_Dakar")
+    st.write("Nationalité:sénégalais")

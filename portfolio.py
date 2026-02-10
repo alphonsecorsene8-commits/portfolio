@@ -34,4 +34,4 @@ with st.sidebar:
     st.write("📧Email:alphonsecorsene8@gmail.com")
     st.write("📞Téléphone:779509002")
     st.write("📌Adresse:petit mbao_Dakar")
-    st.write("Nationalité:sénégalais")
+    st.write("Nationalité:sénégalaise")

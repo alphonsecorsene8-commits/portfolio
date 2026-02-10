@@ -28,7 +28,7 @@ st.write("- Microsoft office(word,excel,PowerPoint)")
 st.write("- Développement d'applications simple avec streamlit et python")
 
 with st.sidebar:
-    st.image("image.jpeg",width=100)
+    st.image([image.jpeg],width=100)
     st.write("PRENOM:ALPHONSE COR")
     st.write("NOM:SÈNE")
     st.write("📧Email:alphonsecorsene8@gmail.com")

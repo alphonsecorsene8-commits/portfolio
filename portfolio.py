@@ -31,7 +31,7 @@ with st.sidebar:
     st.image("image1.jpeg",width=100)
     st.write("PRENOM:ALPHONSE COR")
     st.write("NOM:SÈNE")
-    st.write("📧Email:alphonsecorsene8@gmail.com")
+    st.write("📧Email: alphonsecorsene8@gmail.com")
     st.write("📞Téléphone:779509002")
     st.write("📌Adresse:petit mbao_Dakar")
     st.write("Nationalité:sénégalaise")
